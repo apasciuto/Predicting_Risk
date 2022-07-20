@@ -1,18 +1,3 @@
----
-layout: post
-title:  "Predicting Risk: Lending Club"
-cover: "/assets/media/loans/loans.png"
-permalink: /:categories/:year/:month/:day/Predicting-Risk
-excerpt_separator: <!--end-->
-categories: projects
-date: 2017-09-01
----
-
-Predicting whether or not a loan will be paid off on time.
-
-<!--end-->
-
-
 # Lending Club
 
 **Identify loans that have a better chance of being paid off on time.**  
